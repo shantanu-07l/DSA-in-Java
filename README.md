@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0018-4sum/) | Medium |
+| [0053-maximum-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
@@ -79,4 +80,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0523-continuous-subarray-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
