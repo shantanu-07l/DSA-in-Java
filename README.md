@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0992-subarrays-with-k-different-integers/) | Hard |
+| [1248-count-number-of-nice-subarrays](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +71,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 <!---LeetCode Topics End-->
