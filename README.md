@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1870-minimum-speed-to-arrive-on-time/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
