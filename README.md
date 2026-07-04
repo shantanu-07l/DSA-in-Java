@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0064-minimum-path-sum/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
+| [0198-house-robber](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0410-split-array-largest-sum/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0523-continuous-subarray-sum/) | Medium |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
+| [0198-house-robber](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0410-split-array-largest-sum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
