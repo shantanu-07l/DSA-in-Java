@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0931-minimum-falling-path-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0410-split-array-largest-sum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0931-minimum-falling-path-sum/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2063-vowels-of-all-substrings/) | Medium |
 ## Queue
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0064-minimum-path-sum/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0931-minimum-falling-path-sum/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
