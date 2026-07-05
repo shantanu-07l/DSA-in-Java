@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0078-subsets/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
+| [0189-rotate-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0410-split-array-largest-sum/) | Hard |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0018-4sum/) | Medium |
+| [0189-rotate-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0523-continuous-subarray-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2063-vowels-of-all-substrings/) | Medium |
