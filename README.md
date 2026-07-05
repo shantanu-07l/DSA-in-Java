@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0064-minimum-path-sum/) | Medium |
+| [0078-subsets](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0078-subsets/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -187,4 +188,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
