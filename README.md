@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0992-subarrays-with-k-different-integers/) | Hard |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3005-count-elements-with-maximum-frequency/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
