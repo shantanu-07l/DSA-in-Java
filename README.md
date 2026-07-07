@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0189-rotate-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 ## Sorting
@@ -221,4 +222,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
