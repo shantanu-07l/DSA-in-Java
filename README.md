@@ -229,4 +229,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0160-intersection-of-two-linked-lists/) | Easy |
+| [0707-design-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0707-design-linked-list/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
