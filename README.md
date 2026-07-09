@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1552-magnetic-force-between-two-balls/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0018-4sum/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1552-magnetic-force-between-two-balls/) | Medium |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
