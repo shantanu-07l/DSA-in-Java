@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1552-magnetic-force-between-two-balls/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1913-maximum-product-difference-between-two-pairs/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0018-4sum/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1552-magnetic-force-between-two-balls/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -80,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Sliding Window
