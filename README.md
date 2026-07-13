@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 ## Memoization
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0086-partition-list/) | Medium |
