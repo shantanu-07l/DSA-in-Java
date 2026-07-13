@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0328-odd-even-linked-list/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -285,4 +287,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0146-lru-cache/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
