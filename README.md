@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0410-split-array-largest-sum/) | Hard |
+| [0496-next-greater-element-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0496-next-greater-element-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0155-min-stack/) | Medium |
+| [0496-next-greater-element-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1381-design-a-stack-with-increment-operation/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -303,5 +306,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
