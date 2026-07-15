@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
+| [0845-longest-mountain-in-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0845-longest-mountain-in-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0633-sum-of-square-numbers/) | Medium |
+| [0845-longest-mountain-in-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0845-longest-mountain-in-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0410-split-array-largest-sum/) | Hard |
+| [0845-longest-mountain-in-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0845-longest-mountain-in-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0931-minimum-falling-path-sum/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -314,4 +317,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0845-longest-mountain-in-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0845-longest-mountain-in-array/) | Medium |
 <!---LeetCode Topics End-->
