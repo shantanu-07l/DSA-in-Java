@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0198-house-robber/) | Medium |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0227-basic-calculator-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0523-continuous-subarray-sum/) | Medium |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
 | [0143-reorder-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0155-min-stack/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0227-basic-calculator-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
