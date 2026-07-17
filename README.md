@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0091-decode-ways/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0227-basic-calculator-ii/) | Medium |
+| [0394-decode-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0394-decode-string/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0143-reorder-list/) | Medium |
+| [0394-decode-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0394-decode-string/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0155-min-stack/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0227-basic-calculator-ii/) | Medium |
+| [0394-decode-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
