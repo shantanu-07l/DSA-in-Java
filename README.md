@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1381-design-a-stack-with-increment-operation/) | Medium |
@@ -348,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 ## Design
@@ -378,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 ## Enumeration
