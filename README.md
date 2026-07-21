@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0227-basic-calculator-ii/) | Medium |
 | [0394-decode-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0394-decode-string/) | Medium |
+| [0402-remove-k-digits](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0402-remove-k-digits/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0410-split-array-largest-sum/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Heap (Priority Queue)
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0394-decode-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0394-decode-string/) | Medium |
+| [0402-remove-k-digits](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
@@ -359,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
+| [0402-remove-k-digits](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
