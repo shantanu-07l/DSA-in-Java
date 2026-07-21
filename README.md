@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0224-basic-calculator](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
 | [0394-decode-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0394-decode-string/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1381-design-a-stack-with-increment-operation](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1544-make-the-string-great](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1544-make-the-string-great/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0707-design-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -376,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
