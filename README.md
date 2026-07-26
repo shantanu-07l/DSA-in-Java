@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0968-binary-tree-cameras/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0968-binary-tree-cameras/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0968-binary-tree-cameras/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
@@ -450,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0112-path-sum/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
