@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0845-longest-mountain-in-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0845-longest-mountain-in-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0931-minimum-falling-path-sum/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0968-binary-tree-cameras/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2063-vowels-of-all-substrings/) | Medium |
 ## Queue
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0968-binary-tree-cameras/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0968-binary-tree-cameras/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0968-binary-tree-cameras/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
