@@ -349,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0222-count-complete-tree-nodes/) | Medium |
+| [0226-invert-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0437-path-sum-iii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0513-find-bottom-left-tree-value/) | Medium |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0437-path-sum-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0437-path-sum-iii/) | Medium |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0222-count-complete-tree-nodes/) | Medium |
+| [0226-invert-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0437-path-sum-iii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0513-find-bottom-left-tree-value/) | Medium |
@@ -483,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0513-find-bottom-left-tree-value/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0993-cousins-in-binary-tree/) | Easy |
