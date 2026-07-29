@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
@@ -369,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
@@ -395,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
@@ -421,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0092-reverse-linked-list-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0143-reorder-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0146-lru-cache/) | Medium |
