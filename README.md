@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0968-binary-tree-cameras/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0993-cousins-in-binary-tree/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0968-binary-tree-cameras/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0993-cousins-in-binary-tree/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -533,4 +535,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
