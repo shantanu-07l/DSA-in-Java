@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1019-next-greater-node-in-linked-list/) | Medium |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0968-binary-tree-cameras/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0993-cousins-in-binary-tree/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -448,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0968-binary-tree-cameras/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0993-cousins-in-binary-tree/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -503,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2487-remove-nodes-from-linked-list/) | Medium |
@@ -552,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
