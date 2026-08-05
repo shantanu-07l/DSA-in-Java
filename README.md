@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0148-sort-list/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 ## Dynamic Programming
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0112-path-sum/) | Easy |
@@ -438,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0112-path-sum/) | Easy |
@@ -478,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0092-reverse-linked-list-ii/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0143-reorder-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0143-reorder-list/) | Medium |
@@ -565,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
