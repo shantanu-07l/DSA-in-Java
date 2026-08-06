@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0224-basic-calculator](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0227-basic-calculator-ii/) | Medium |
+| [0231-power-of-two](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0445-add-two-numbers-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0224-basic-calculator](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
+| [0231-power-of-two](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [0394-decode-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0394-decode-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 ## Memoization
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0078-subsets/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0222-count-complete-tree-nodes/) | Medium |
+| [0231-power-of-two](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
