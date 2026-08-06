@@ -328,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0222-count-complete-tree-nodes/) | Medium |
 | [0231-power-of-two](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
+| [0693-binary-number-with-alternating-bits](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0693-binary-number-with-alternating-bits/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
