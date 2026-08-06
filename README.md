@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0148-sort-list/) | Medium |
+| [0191-number-of-1-bits](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0191-number-of-1-bits/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0078-subsets/) | Medium |
+| [0191-number-of-1-bits](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0222-count-complete-tree-nodes/) | Medium |
 | [0231-power-of-two](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 ## Stack
