@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0523-continuous-subarray-sum/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0018-4sum/) | Medium |
 | [0148-sort-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0148-sort-list/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0845-longest-mountain-in-array/) | Medium |
 | [0877-stone-game](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
@@ -275,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
