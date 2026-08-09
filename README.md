@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0086-partition-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0148-sort-list/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0076-minimum-window-substring](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0091-decode-ways/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0224-basic-calculator](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0227-basic-calculator-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0316-remove-duplicate-letters/) | Medium |
