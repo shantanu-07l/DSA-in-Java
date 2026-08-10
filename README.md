@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0018-4sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0076-minimum-window-substring](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
@@ -612,4 +614,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0877-stone-game/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
