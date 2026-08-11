@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3731-find-missing-elements](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 ## Two Pointers
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-max-number-of-k-sum-pairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3731-find-missing-elements](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 ## Sliding Window
