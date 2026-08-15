@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-maximum-sum-circular-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0931-minimum-falling-path-sum/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0962-maximum-width-ramp/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0845-longest-mountain-in-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
+| [0962-maximum-width-ramp](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0962-maximum-width-ramp/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Sorting
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0962-maximum-width-ramp/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -554,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0962-maximum-width-ramp/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
