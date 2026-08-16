@@ -632,4 +632,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Medium/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
