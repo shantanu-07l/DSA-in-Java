@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
