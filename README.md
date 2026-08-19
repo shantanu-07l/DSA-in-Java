@@ -639,5 +639,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Medium/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
