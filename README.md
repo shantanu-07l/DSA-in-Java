@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
+| [3909-compare-sums-of-bitonic-parts](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/3909-compare-sums-of-bitonic-parts/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
