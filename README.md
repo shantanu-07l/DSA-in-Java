@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0018-4sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0033-search-in-rotated-sorted-array/) | Medium |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0061-rotate-list/) | Medium |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0409-longest-palindrome/) | Easy |
