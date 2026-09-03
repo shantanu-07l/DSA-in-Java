@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0198-house-robber/) | Medium |
+| [0204-count-primes](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0204-count-primes/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0410-split-array-largest-sum/) | Hard |
 | [0414-third-maximum-number](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0414-third-maximum-number/) | Easy |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0204-count-primes/) | Medium |
 | [0224-basic-calculator](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0227-basic-calculator-ii/) | Medium |
 | [0231-power-of-two](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
@@ -582,10 +584,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0204-count-primes/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0845-longest-mountain-in-array/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0204-count-primes/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Breadth-First Search
@@ -657,4 +661,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0182-duplicate-emails](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0196-delete-duplicate-emails/) | Easy |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
