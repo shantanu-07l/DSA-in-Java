@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/3909-compare-sums-of-bitonic-parts/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3903-smallest-stable-index-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
