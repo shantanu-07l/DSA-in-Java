@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0143-reorder-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0224-basic-calculator](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [0394-decode-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0394-decode-string/) | Medium |
@@ -547,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0160-intersection-of-two-linked-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0445-add-two-numbers-ii/) | Medium |
