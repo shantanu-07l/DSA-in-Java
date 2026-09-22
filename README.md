@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0146-lru-cache](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0160-intersection-of-two-linked-lists/) | Easy |
+| [0205-isomorphic-strings](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0205-isomorphic-strings/) | Easy |
 | [0409-longest-palindrome](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0091-decode-ways/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0205-isomorphic-strings/) | Easy |
 | [0224-basic-calculator](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0227-basic-calculator-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0316-remove-duplicate-letters/) | Medium |
