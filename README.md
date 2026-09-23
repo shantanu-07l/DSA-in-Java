@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0148-sort-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0148-sort-list/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0414-third-maximum-number/) | Easy |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0146-lru-cache](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0146-lru-cache/) | Medium |
@@ -215,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0049-group-anagrams](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0091-decode-ways/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0151-reverse-words-in-a-string/) | Medium |
