@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0041-first-missing-positive/) | Hard |
+| [0046-permutations](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0113-path-sum-ii/) | Medium |
