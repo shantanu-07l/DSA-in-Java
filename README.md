@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0682-baseball-game](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0845-longest-mountain-in-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
+| [0682-baseball-game](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0682-baseball-game/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -423,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0503-next-greater-element-ii/) | Medium |
+| [0682-baseball-game](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
