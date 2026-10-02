@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0062-unique-paths/) | Medium |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0078-subsets/) | Medium |
@@ -716,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
