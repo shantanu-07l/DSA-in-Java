@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0198-house-robber/) | Medium |
+| [0338-counting-bits](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0338-counting-bits/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0845-longest-mountain-in-array/) | Medium |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0222-count-complete-tree-nodes/) | Medium |
 | [0231-power-of-two](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
+| [0338-counting-bits](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0338-counting-bits/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0693-binary-number-with-alternating-bits/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
