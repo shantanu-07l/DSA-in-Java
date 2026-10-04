@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0338-counting-bits/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0845-longest-mountain-in-array/) | Medium |
 | [0877-stone-game](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0409-longest-palindrome/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -431,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
@@ -724,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
