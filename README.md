@@ -711,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0182-duplicate-emails](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0196-delete-duplicate-emails/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0511-game-play-analysis-i/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0619-biggest-single-number](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0619-biggest-single-number/) | Easy |
 ## Primality Test
