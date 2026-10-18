@@ -726,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0627-swap-sex-of-employees](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0627-swap-sex-of-employees/) | Easy |
 | [1179-reformat-department-table](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/1179-reformat-department-table/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1407-top-travellers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/1407-top-travellers/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
