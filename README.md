@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1552-magnetic-force-between-two-balls/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1552-magnetic-force-between-two-balls/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
