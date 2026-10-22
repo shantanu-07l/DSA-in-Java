@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/3909-compare-sums-of-bitonic-parts/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
