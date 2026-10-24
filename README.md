@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2063-vowels-of-all-substrings/) | Medium |
+| [2409-count-days-spent-together](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2409-count-days-spent-together/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Math
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2063-vowels-of-all-substrings/) | Medium |
+| [2409-count-days-spent-together](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2409-count-days-spent-together/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
