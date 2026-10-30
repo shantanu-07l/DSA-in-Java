@@ -738,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1407-top-travellers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/1484-group-sold-products-by-the-date/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/1587-bank-account-summary-ii/) | Easy |
+| [1693-daily-leads-and-partners](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/1693-daily-leads-and-partners/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
