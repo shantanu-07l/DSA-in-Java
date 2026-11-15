@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1552-magnetic-force-between-two-balls/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3903-smallest-stable-index-i/) | Easy |
 ## Counting
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0877-stone-game](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2063-vowels-of-all-substrings/) | Medium |
 | [2409-count-days-spent-together](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2409-count-days-spent-together/) | Easy |
@@ -344,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-maximum-sum-circular-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0931-minimum-falling-path-sum/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0968-binary-tree-cameras/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2063-vowels-of-all-substrings/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/3524-find-x-value-of-array-i/) | Medium |
