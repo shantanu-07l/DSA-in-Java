@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2409-count-days-spent-together/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
