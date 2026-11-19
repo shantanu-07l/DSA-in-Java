@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0227-basic-calculator-ii/) | Medium |
 | [0231-power-of-two](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0263-ugly-number/) | Easy |
+| [0326-power-of-three](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0326-power-of-three/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0445-add-two-numbers-ii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0523-continuous-subarray-sum/) | Medium |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0224-basic-calculator](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/0326-power-of-three/) | Easy |
 | [0394-decode-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0394-decode-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
