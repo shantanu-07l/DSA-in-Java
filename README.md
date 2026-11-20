@@ -749,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0511-game-play-analysis-i/) | Easy |
+| [0584-find-customer-referee](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0607-sales-person/) | Easy |
