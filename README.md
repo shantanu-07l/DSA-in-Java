@@ -754,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0607-sales-person](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0619-biggest-single-number/) | Easy |
+| [0620-not-boring-movies](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/0627-swap-sex-of-employees/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/1084-sales-analysis-iii/) | Easy |
 | [1179-reformat-department-table](https://github.com/shantanu-07l/DSA-in-Java/tree/main/MySQL/Easy/1179-reformat-department-table/) | Easy |
