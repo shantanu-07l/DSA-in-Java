@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/3524-find-x-value-of-array-i/) | Medium |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2063-vowels-of-all-substrings](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2063-vowels-of-all-substrings/) | Medium |
 | [2409-count-days-spent-together](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2409-count-days-spent-together/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -670,12 +673,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0204-count-primes/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0845-longest-mountain-in-array/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/0204-count-primes/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
