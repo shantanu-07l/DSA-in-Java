@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2063-vowels-of-all-substrings](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/2063-vowels-of-all-substrings/) | Medium |
 | [2409-count-days-spent-together](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2409-count-days-spent-together/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -412,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/shantanu-07l/DSA-in-Java/tree/main/Java/Easy/3360-stone-removal-game/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
